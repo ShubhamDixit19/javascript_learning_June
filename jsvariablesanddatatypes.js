@@ -58,4 +58,4 @@
 // console.log(typeof(status)) //Object
 
 // let value = undefined;
-// console.log(typeof(value)); //undefined
+// console.log(typeof(value));
